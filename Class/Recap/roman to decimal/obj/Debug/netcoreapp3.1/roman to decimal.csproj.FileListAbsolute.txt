@@ -1,0 +1,14 @@
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\bin\Debug\netcoreapp3.1\roman to decimal.exe
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\bin\Debug\netcoreapp3.1\roman to decimal.deps.json
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\bin\Debug\netcoreapp3.1\roman to decimal.runtimeconfig.json
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\bin\Debug\netcoreapp3.1\roman to decimal.runtimeconfig.dev.json
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\bin\Debug\netcoreapp3.1\roman to decimal.dll
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\bin\Debug\netcoreapp3.1\roman to decimal.pdb
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\obj\Debug\netcoreapp3.1\roman to decimal.csproj.AssemblyReference.cache
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\obj\Debug\netcoreapp3.1\roman to decimal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\obj\Debug\netcoreapp3.1\roman to decimal.AssemblyInfoInputs.cache
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\obj\Debug\netcoreapp3.1\roman to decimal.AssemblyInfo.cs
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\obj\Debug\netcoreapp3.1\roman to decimal.csproj.CoreCompileInputs.cache
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\obj\Debug\netcoreapp3.1\roman to decimal.dll
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\obj\Debug\netcoreapp3.1\roman to decimal.pdb
+E:\Study\Classes\Programming Fundamentals\Class\Recap\roman to decimal\obj\Debug\netcoreapp3.1\roman to decimal.genruntimeconfig.cache

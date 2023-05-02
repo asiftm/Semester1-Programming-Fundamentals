@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\bin\Debug\netcoreapp3.1\Word Nest.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\bin\Debug\netcoreapp3.1\Word Nest.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\bin\Debug\netcoreapp3.1\Word Nest.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\bin\Debug\netcoreapp3.1\Word Nest.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\bin\Debug\netcoreapp3.1\Word Nest.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\bin\Debug\netcoreapp3.1\Word Nest.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\obj\Debug\netcoreapp3.1\Word Nest.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\obj\Debug\netcoreapp3.1\Word Nest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\obj\Debug\netcoreapp3.1\Word Nest.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\obj\Debug\netcoreapp3.1\Word Nest.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\obj\Debug\netcoreapp3.1\Word Nest.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\obj\Debug\netcoreapp3.1\Word Nest.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\obj\Debug\netcoreapp3.1\Word Nest.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Word Nest\obj\Debug\netcoreapp3.1\Word Nest.genruntimeconfig.cache

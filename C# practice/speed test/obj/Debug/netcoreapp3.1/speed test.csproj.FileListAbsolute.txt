@@ -1,0 +1,14 @@
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\bin\Debug\netcoreapp3.1\speed test.exe
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\bin\Debug\netcoreapp3.1\speed test.deps.json
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\bin\Debug\netcoreapp3.1\speed test.runtimeconfig.json
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\bin\Debug\netcoreapp3.1\speed test.runtimeconfig.dev.json
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\bin\Debug\netcoreapp3.1\speed test.dll
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\bin\Debug\netcoreapp3.1\speed test.pdb
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\obj\Debug\netcoreapp3.1\speed test.csproj.AssemblyReference.cache
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\obj\Debug\netcoreapp3.1\speed test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\obj\Debug\netcoreapp3.1\speed test.AssemblyInfoInputs.cache
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\obj\Debug\netcoreapp3.1\speed test.AssemblyInfo.cs
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\obj\Debug\netcoreapp3.1\speed test.csproj.CoreCompileInputs.cache
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\obj\Debug\netcoreapp3.1\speed test.dll
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\obj\Debug\netcoreapp3.1\speed test.pdb
+E:\Study\Classes\Programming Fundamentals\C# practice\speed test\obj\Debug\netcoreapp3.1\speed test.genruntimeconfig.cache

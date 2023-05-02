@@ -1,0 +1,14 @@
+D:\semester1\Programming Fundamentals\Class\methodes01\bin\Debug\netcoreapp3.1\methodes01.exe
+D:\semester1\Programming Fundamentals\Class\methodes01\bin\Debug\netcoreapp3.1\methodes01.deps.json
+D:\semester1\Programming Fundamentals\Class\methodes01\bin\Debug\netcoreapp3.1\methodes01.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Class\methodes01\bin\Debug\netcoreapp3.1\methodes01.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Class\methodes01\bin\Debug\netcoreapp3.1\methodes01.dll
+D:\semester1\Programming Fundamentals\Class\methodes01\bin\Debug\netcoreapp3.1\methodes01.pdb
+D:\semester1\Programming Fundamentals\Class\methodes01\obj\Debug\netcoreapp3.1\methodes01.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Class\methodes01\obj\Debug\netcoreapp3.1\methodes01.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Class\methodes01\obj\Debug\netcoreapp3.1\methodes01.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Class\methodes01\obj\Debug\netcoreapp3.1\methodes01.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Class\methodes01\obj\Debug\netcoreapp3.1\methodes01.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Class\methodes01\obj\Debug\netcoreapp3.1\methodes01.dll
+D:\semester1\Programming Fundamentals\Class\methodes01\obj\Debug\netcoreapp3.1\methodes01.pdb
+D:\semester1\Programming Fundamentals\Class\methodes01\obj\Debug\netcoreapp3.1\methodes01.genruntimeconfig.cache

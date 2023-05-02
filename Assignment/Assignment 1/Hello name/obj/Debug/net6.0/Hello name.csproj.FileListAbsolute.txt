@@ -1,0 +1,15 @@
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\bin\Debug\net6.0\Hello name.exe
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\bin\Debug\net6.0\Hello name.deps.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\bin\Debug\net6.0\Hello name.runtimeconfig.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\bin\Debug\net6.0\Hello name.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\bin\Debug\net6.0\Hello name.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\Hello name.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\Hello name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\Hello name.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\Hello name.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\Hello name.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\Hello name.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\refint\Hello name.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\Hello name.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\Hello name.genruntimeconfig.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Hello name\obj\Debug\net6.0\ref\Hello name.dll

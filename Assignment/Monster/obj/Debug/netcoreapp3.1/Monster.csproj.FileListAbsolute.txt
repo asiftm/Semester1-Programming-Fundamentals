@@ -1,0 +1,14 @@
+Z:\semester1\Programming Fundamentals\Assignment\Monster\obj\Debug\netcoreapp3.1\Monster.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Monster\obj\Debug\netcoreapp3.1\Monster.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Monster\obj\Debug\netcoreapp3.1\Monster.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Monster\obj\Debug\netcoreapp3.1\Monster.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Monster\obj\Debug\netcoreapp3.1\Monster.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Monster\bin\Debug\netcoreapp3.1\Monster.exe
+Z:\semester1\Programming Fundamentals\Assignment\Monster\bin\Debug\netcoreapp3.1\Monster.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Monster\bin\Debug\netcoreapp3.1\Monster.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Monster\bin\Debug\netcoreapp3.1\Monster.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Monster\bin\Debug\netcoreapp3.1\Monster.dll
+Z:\semester1\Programming Fundamentals\Assignment\Monster\bin\Debug\netcoreapp3.1\Monster.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Monster\obj\Debug\netcoreapp3.1\Monster.dll
+Z:\semester1\Programming Fundamentals\Assignment\Monster\obj\Debug\netcoreapp3.1\Monster.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Monster\obj\Debug\netcoreapp3.1\Monster.genruntimeconfig.cache

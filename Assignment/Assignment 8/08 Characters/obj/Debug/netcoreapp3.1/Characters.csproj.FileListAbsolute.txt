@@ -1,0 +1,28 @@
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\bin\Debug\netcoreapp3.1\Characters.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\bin\Debug\netcoreapp3.1\Characters.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\bin\Debug\netcoreapp3.1\Characters.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\bin\Debug\netcoreapp3.1\Characters.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\bin\Debug\netcoreapp3.1\Characters.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\bin\Debug\netcoreapp3.1\Characters.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\obj\Debug\netcoreapp3.1\Characters.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\obj\Debug\netcoreapp3.1\Characters.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\obj\Debug\netcoreapp3.1\Characters.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\obj\Debug\netcoreapp3.1\Characters.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\obj\Debug\netcoreapp3.1\Characters.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\obj\Debug\netcoreapp3.1\Characters.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\obj\Debug\netcoreapp3.1\Characters.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Characters\obj\Debug\netcoreapp3.1\Characters.genruntimeconfig.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\bin\Debug\netcoreapp3.1\Characters.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\bin\Debug\netcoreapp3.1\Characters.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\bin\Debug\netcoreapp3.1\Characters.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\bin\Debug\netcoreapp3.1\Characters.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\bin\Debug\netcoreapp3.1\Characters.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\bin\Debug\netcoreapp3.1\Characters.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\obj\Debug\netcoreapp3.1\Characters.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\obj\Debug\netcoreapp3.1\Characters.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\obj\Debug\netcoreapp3.1\Characters.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\obj\Debug\netcoreapp3.1\Characters.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\obj\Debug\netcoreapp3.1\Characters.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\obj\Debug\netcoreapp3.1\Characters.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\obj\Debug\netcoreapp3.1\Characters.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Characters\obj\Debug\netcoreapp3.1\Characters.genruntimeconfig.cache

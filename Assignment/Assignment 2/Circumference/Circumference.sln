@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circumference", "Circumference.csproj", "{E2AB9C81-1CCD-4362-BB30-9A40E0D68B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2AB9C81-1CCD-4362-BB30-9A40E0D68B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AB9C81-1CCD-4362-BB30-9A40E0D68B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AB9C81-1CCD-4362-BB30-9A40E0D68B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AB9C81-1CCD-4362-BB30-9A40E0D68B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29DF9E2-EBF0-4324-BEAF-47E91A1CF9CC}
+	EndGlobalSection
+EndGlobal

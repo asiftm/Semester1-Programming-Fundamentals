@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z of Zorro", "Z of Zorro.csproj", "{71947AAB-5CF8-4C14-A67F-04E0FBB32960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71947AAB-5CF8-4C14-A67F-04E0FBB32960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71947AAB-5CF8-4C14-A67F-04E0FBB32960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71947AAB-5CF8-4C14-A67F-04E0FBB32960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71947AAB-5CF8-4C14-A67F-04E0FBB32960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E540B81-CD0A-4463-8D76-71DEB98855D1}
+	EndGlobalSection
+EndGlobal

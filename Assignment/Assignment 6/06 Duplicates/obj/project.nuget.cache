@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7jDX/dh5jTNTFfNjGtL9NTNgB/E8NaRlDYR/6u7RWfj5SheGsKrbJBAaM6hbiPqzBK3ai8a5mMNZWqep8UbfWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 6\\Duplicates\\Duplicates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

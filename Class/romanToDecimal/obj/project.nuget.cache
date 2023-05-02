@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJzqavlfSn7zQ0jp2p8qUbtUWs70z55g7ZxzbfpKdcKFUe5zH4a+Y4brnV1RP8267GWIrdMabmfCeVmuflficw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Class\\romanToDecimal\\romanToDecimal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

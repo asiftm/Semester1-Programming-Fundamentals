@@ -1,0 +1,28 @@
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.exe
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\bin\Debug\netcoreapp3.1\Average.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 2\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache

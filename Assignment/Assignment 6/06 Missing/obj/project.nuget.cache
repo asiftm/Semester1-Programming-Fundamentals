@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9QrKSitKyoA8A9+WOgqogbwMMgXZC54NIl9CrLOrfvI//TsQvbbTJssHDlQsHroHr2t3mm7rsLwHbU2xNzSLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 6\\06 Missing\\Missing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

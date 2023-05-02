@@ -1,0 +1,14 @@
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\bin\Debug\netcoreapp3.1\Emordnilap.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\bin\Debug\netcoreapp3.1\Emordnilap.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\bin\Debug\netcoreapp3.1\Emordnilap.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\bin\Debug\netcoreapp3.1\Emordnilap.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\bin\Debug\netcoreapp3.1\Emordnilap.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\bin\Debug\netcoreapp3.1\Emordnilap.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\obj\Debug\netcoreapp3.1\Emordnilap.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\obj\Debug\netcoreapp3.1\Emordnilap.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\obj\Debug\netcoreapp3.1\Emordnilap.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\obj\Debug\netcoreapp3.1\Emordnilap.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\obj\Debug\netcoreapp3.1\Emordnilap.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\obj\Debug\netcoreapp3.1\Emordnilap.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\obj\Debug\netcoreapp3.1\Emordnilap.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Emordnilap\obj\Debug\netcoreapp3.1\Emordnilap.genruntimeconfig.cache

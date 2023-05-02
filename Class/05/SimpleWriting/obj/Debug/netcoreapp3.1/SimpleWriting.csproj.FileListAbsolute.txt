@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\bin\Debug\netcoreapp3.1\SimpleWriting.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\bin\Debug\netcoreapp3.1\SimpleWriting.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\bin\Debug\netcoreapp3.1\SimpleWriting.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\bin\Debug\netcoreapp3.1\SimpleWriting.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\bin\Debug\netcoreapp3.1\SimpleWriting.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\bin\Debug\netcoreapp3.1\SimpleWriting.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\obj\Debug\netcoreapp3.1\SimpleWriting.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\obj\Debug\netcoreapp3.1\SimpleWriting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\obj\Debug\netcoreapp3.1\SimpleWriting.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\obj\Debug\netcoreapp3.1\SimpleWriting.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\obj\Debug\netcoreapp3.1\SimpleWriting.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\obj\Debug\netcoreapp3.1\SimpleWriting.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\obj\Debug\netcoreapp3.1\SimpleWriting.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\SimpleWriting\obj\Debug\netcoreapp3.1\SimpleWriting.genruntimeconfig.cache

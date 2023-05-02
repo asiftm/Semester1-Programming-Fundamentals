@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9VUUtLM9W9S5YR+6SsJWpGWvKSkh4TPNvxznk31yUWly124F4WMBz7ewN30HBCFOVgRF7MiNedAxyMda2m4ng==",
+  "success": true,
+  "projectFilePath": "E:\\Study\\Classes\\Programming Fundamentals\\C# practice\\speed test\\speed test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+Z:\semester1\Programming Fundamentals\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+Z:\semester1\Programming Fundamentals\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+Z:\semester1\Programming Fundamentals\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+Z:\semester1\Programming Fundamentals\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+Z:\semester1\Programming Fundamentals\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Exam\obj\Debug\netcoreapp3.1\Exam.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+Z:\semester1\Programming Fundamentals\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+Z:\semester1\Programming Fundamentals\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache

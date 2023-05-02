@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\bin\Debug\netcoreapp3.1\DecimalPart.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\bin\Debug\netcoreapp3.1\DecimalPart.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\bin\Debug\netcoreapp3.1\DecimalPart.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\bin\Debug\netcoreapp3.1\DecimalPart.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\bin\Debug\netcoreapp3.1\DecimalPart.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\bin\Debug\netcoreapp3.1\DecimalPart.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\obj\Debug\netcoreapp3.1\DecimalPart.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\obj\Debug\netcoreapp3.1\DecimalPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\obj\Debug\netcoreapp3.1\DecimalPart.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\obj\Debug\netcoreapp3.1\DecimalPart.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\obj\Debug\netcoreapp3.1\DecimalPart.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\obj\Debug\netcoreapp3.1\DecimalPart.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\obj\Debug\netcoreapp3.1\DecimalPart.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\DecimalPart\obj\Debug\netcoreapp3.1\DecimalPart.genruntimeconfig.cache

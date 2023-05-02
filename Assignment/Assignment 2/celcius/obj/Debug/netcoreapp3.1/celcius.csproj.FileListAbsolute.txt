@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\bin\Debug\netcoreapp3.1\celcius.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\bin\Debug\netcoreapp3.1\celcius.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\bin\Debug\netcoreapp3.1\celcius.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\bin\Debug\netcoreapp3.1\celcius.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\bin\Debug\netcoreapp3.1\celcius.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\bin\Debug\netcoreapp3.1\celcius.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\obj\Debug\netcoreapp3.1\celcius.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\obj\Debug\netcoreapp3.1\celcius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\obj\Debug\netcoreapp3.1\celcius.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\obj\Debug\netcoreapp3.1\celcius.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\obj\Debug\netcoreapp3.1\celcius.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\obj\Debug\netcoreapp3.1\celcius.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\obj\Debug\netcoreapp3.1\celcius.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\celcius\obj\Debug\netcoreapp3.1\celcius.genruntimeconfig.cache

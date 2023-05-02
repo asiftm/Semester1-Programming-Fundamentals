@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rdBsQWtF7tM6qkUbNRgdP7LS9NB0iFbM6jVOhOQzIrBOmormAFIqcAOb3a+dH2MyeHbX53ApwzLp+xwPo+TcPA==",
+  "success": true,
+  "projectFilePath": "D:\\semester1\\Programming Fundamentals\\Assignment\\Assignment 7\\Polynomial\\Polynomial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

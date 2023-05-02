@@ -1,0 +1,42 @@
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.exe
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.deps.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.genruntimeconfig.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\bin\Debug\netcoreapp3.1\zero.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\zero\obj\Debug\netcoreapp3.1\zero.genruntimeconfig.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\bin\Debug\netcoreapp3.1\zero.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\bin\Debug\netcoreapp3.1\zero.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\bin\Debug\netcoreapp3.1\zero.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\bin\Debug\netcoreapp3.1\zero.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\bin\Debug\netcoreapp3.1\zero.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\bin\Debug\netcoreapp3.1\zero.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\obj\Debug\netcoreapp3.1\zero.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\obj\Debug\netcoreapp3.1\zero.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\obj\Debug\netcoreapp3.1\zero.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\obj\Debug\netcoreapp3.1\zero.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\obj\Debug\netcoreapp3.1\zero.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\obj\Debug\netcoreapp3.1\zero.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\obj\Debug\netcoreapp3.1\zero.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 zero done but still confused\obj\Debug\netcoreapp3.1\zero.genruntimeconfig.cache

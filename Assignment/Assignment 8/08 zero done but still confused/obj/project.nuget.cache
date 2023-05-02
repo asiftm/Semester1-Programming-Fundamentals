@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fInezz2KXFG1srFA3fwgUSJSsCs3uJPk1GGThe4Pv9K3HSggJidJE2+XfGXcRQizIEMBh37Q8/Wt69Rwv9zQhQ==",
+  "success": true,
+  "projectFilePath": "Z:\\semester1\\Programming Fundamentals\\Assignment\\Assignment 8\\08 zero done but still confused\\zero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\bin\Debug\netcoreapp3.1\May the odds.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\bin\Debug\netcoreapp3.1\May the odds.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\bin\Debug\netcoreapp3.1\May the odds.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\bin\Debug\netcoreapp3.1\May the odds.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\bin\Debug\netcoreapp3.1\May the odds.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\bin\Debug\netcoreapp3.1\May the odds.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\obj\Debug\netcoreapp3.1\May the odds.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\obj\Debug\netcoreapp3.1\May the odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\obj\Debug\netcoreapp3.1\May the odds.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\obj\Debug\netcoreapp3.1\May the odds.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\obj\Debug\netcoreapp3.1\May the odds.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\obj\Debug\netcoreapp3.1\May the odds.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\obj\Debug\netcoreapp3.1\May the odds.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\May the odds\obj\Debug\netcoreapp3.1\May the odds.genruntimeconfig.cache

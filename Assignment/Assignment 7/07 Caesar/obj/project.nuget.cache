@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lybKJs9jWvNWelqIN5KxDrRgasSk7n3zVPfJfgKUKRBPcdPaWi5xpmYgcIB9lDWTGSavCGF/QI2f1HyFUZKLwQ==",
+  "success": true,
+  "projectFilePath": "D:\\semester1\\Programming Fundamentals\\Assignment\\Assignment 7\\Caesar\\Caesar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

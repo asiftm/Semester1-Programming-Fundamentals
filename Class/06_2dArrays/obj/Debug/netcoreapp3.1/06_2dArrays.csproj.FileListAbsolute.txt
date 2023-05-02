@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\bin\Debug\netcoreapp3.1\06_2dArrays.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\bin\Debug\netcoreapp3.1\06_2dArrays.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\bin\Debug\netcoreapp3.1\06_2dArrays.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\bin\Debug\netcoreapp3.1\06_2dArrays.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\bin\Debug\netcoreapp3.1\06_2dArrays.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\bin\Debug\netcoreapp3.1\06_2dArrays.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\obj\Debug\netcoreapp3.1\06_2dArrays.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\obj\Debug\netcoreapp3.1\06_2dArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\obj\Debug\netcoreapp3.1\06_2dArrays.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\obj\Debug\netcoreapp3.1\06_2dArrays.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\obj\Debug\netcoreapp3.1\06_2dArrays.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\obj\Debug\netcoreapp3.1\06_2dArrays.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\obj\Debug\netcoreapp3.1\06_2dArrays.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06_2dArrays\obj\Debug\netcoreapp3.1\06_2dArrays.genruntimeconfig.cache

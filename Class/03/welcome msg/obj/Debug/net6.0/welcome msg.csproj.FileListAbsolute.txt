@@ -1,0 +1,15 @@
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\bin\Debug\net6.0\welcome msg.exe
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\bin\Debug\net6.0\welcome msg.deps.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\bin\Debug\net6.0\welcome msg.runtimeconfig.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\bin\Debug\net6.0\welcome msg.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\bin\Debug\net6.0\welcome msg.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\welcome msg.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\welcome msg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\welcome msg.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\welcome msg.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\welcome msg.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\welcome msg.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\refint\welcome msg.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\welcome msg.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\welcome msg.genruntimeconfig.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\welcome msg\obj\Debug\net6.0\ref\welcome msg.dll

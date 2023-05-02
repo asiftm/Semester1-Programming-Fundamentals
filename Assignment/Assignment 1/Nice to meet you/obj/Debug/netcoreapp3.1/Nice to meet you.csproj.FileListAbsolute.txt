@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.exe
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.deps.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.runtimeconfig.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.genruntimeconfig.cache

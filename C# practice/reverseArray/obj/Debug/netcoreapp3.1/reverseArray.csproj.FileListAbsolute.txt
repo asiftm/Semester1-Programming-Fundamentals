@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\bin\Debug\netcoreapp3.1\reverseArray.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\reverseArray\obj\Debug\netcoreapp3.1\reverseArray.genruntimeconfig.cache

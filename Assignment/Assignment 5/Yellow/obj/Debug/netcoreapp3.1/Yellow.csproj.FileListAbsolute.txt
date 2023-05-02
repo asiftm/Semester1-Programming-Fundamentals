@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\obj\Debug\netcoreapp3.1\Yellow.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\obj\Debug\netcoreapp3.1\Yellow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\obj\Debug\netcoreapp3.1\Yellow.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\obj\Debug\netcoreapp3.1\Yellow.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\obj\Debug\netcoreapp3.1\Yellow.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\bin\Debug\netcoreapp3.1\Yellow.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\bin\Debug\netcoreapp3.1\Yellow.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\bin\Debug\netcoreapp3.1\Yellow.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\bin\Debug\netcoreapp3.1\Yellow.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\bin\Debug\netcoreapp3.1\Yellow.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\bin\Debug\netcoreapp3.1\Yellow.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\obj\Debug\netcoreapp3.1\Yellow.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\obj\Debug\netcoreapp3.1\Yellow.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Yellow\obj\Debug\netcoreapp3.1\Yellow.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\bin\Debug\netcoreapp3.1\even.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\bin\Debug\netcoreapp3.1\even.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\bin\Debug\netcoreapp3.1\even.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\bin\Debug\netcoreapp3.1\even.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\bin\Debug\netcoreapp3.1\even.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\bin\Debug\netcoreapp3.1\even.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\obj\Debug\netcoreapp3.1\even.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\obj\Debug\netcoreapp3.1\even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\obj\Debug\netcoreapp3.1\even.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\obj\Debug\netcoreapp3.1\even.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\obj\Debug\netcoreapp3.1\even.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\obj\Debug\netcoreapp3.1\even.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\obj\Debug\netcoreapp3.1\even.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\even\obj\Debug\netcoreapp3.1\even.genruntimeconfig.cache

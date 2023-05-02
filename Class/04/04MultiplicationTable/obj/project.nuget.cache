@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPorAxw7WDF8x2xBm81sv4dCfF2SMPsKNuhkmD7Et/Dx7g/on+Xxq8dz9eLPHpJPp7dKRDWeqDdxrs0pr75ddQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Class\\04\\04MultiplicationTable\\04MultiplicationTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

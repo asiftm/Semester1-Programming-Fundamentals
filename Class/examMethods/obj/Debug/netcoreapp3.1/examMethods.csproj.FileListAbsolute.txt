@@ -1,0 +1,14 @@
+D:\semester1\Programming Fundamentals\Class\examMethods\obj\Debug\netcoreapp3.1\examMethods.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Class\examMethods\obj\Debug\netcoreapp3.1\examMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Class\examMethods\obj\Debug\netcoreapp3.1\examMethods.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Class\examMethods\obj\Debug\netcoreapp3.1\examMethods.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Class\examMethods\obj\Debug\netcoreapp3.1\examMethods.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Class\examMethods\bin\Debug\netcoreapp3.1\examMethods.exe
+D:\semester1\Programming Fundamentals\Class\examMethods\bin\Debug\netcoreapp3.1\examMethods.deps.json
+D:\semester1\Programming Fundamentals\Class\examMethods\bin\Debug\netcoreapp3.1\examMethods.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Class\examMethods\bin\Debug\netcoreapp3.1\examMethods.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Class\examMethods\bin\Debug\netcoreapp3.1\examMethods.dll
+D:\semester1\Programming Fundamentals\Class\examMethods\bin\Debug\netcoreapp3.1\examMethods.pdb
+D:\semester1\Programming Fundamentals\Class\examMethods\obj\Debug\netcoreapp3.1\examMethods.dll
+D:\semester1\Programming Fundamentals\Class\examMethods\obj\Debug\netcoreapp3.1\examMethods.pdb
+D:\semester1\Programming Fundamentals\Class\examMethods\obj\Debug\netcoreapp3.1\examMethods.genruntimeconfig.cache

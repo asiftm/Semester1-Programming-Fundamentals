@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUkzAdlqvIOZxZiSVrOwzd55ms5TN3AF4HQU/z1chFC+/bYXUZWjIp3rdnyJDK0ob7nQE5EzFD36gn2xuRmHiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Class\\04\\04loops\\04loops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

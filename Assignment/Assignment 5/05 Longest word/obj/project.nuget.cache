@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BU6WkD+9HzB/R3T0Bkt78MUvj8/6kVmi/mYoHl6+Lie0R3BLdRTrB3fhL1WRrOkrbrWHKqqJUseJIEwbHPtYvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 5\\Longest word\\Longest word.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

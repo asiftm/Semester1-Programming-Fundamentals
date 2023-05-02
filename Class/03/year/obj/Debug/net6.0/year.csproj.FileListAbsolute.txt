@@ -1,0 +1,15 @@
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\bin\Debug\net6.0\year.exe
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\bin\Debug\net6.0\year.deps.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\bin\Debug\net6.0\year.runtimeconfig.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\bin\Debug\net6.0\year.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\bin\Debug\net6.0\year.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\year.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\year.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\year.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\year.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\year.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\refint\year.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\year.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\year.genruntimeconfig.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\year\obj\Debug\net6.0\ref\year.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aC12U4qhXYbmL7co3tepx74UHFPBBXJYyKI1MGzj8PzWVW9n52E4LKwuQOLRMCzseGlTBotCGIuuGfWu2WPhdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\C# practice\\Symmetric Array\\Symmetric Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

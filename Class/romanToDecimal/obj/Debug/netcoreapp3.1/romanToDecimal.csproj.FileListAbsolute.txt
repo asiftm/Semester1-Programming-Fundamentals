@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\bin\Debug\netcoreapp3.1\romanToDecimal.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\bin\Debug\netcoreapp3.1\romanToDecimal.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\bin\Debug\netcoreapp3.1\romanToDecimal.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\bin\Debug\netcoreapp3.1\romanToDecimal.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\bin\Debug\netcoreapp3.1\romanToDecimal.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\bin\Debug\netcoreapp3.1\romanToDecimal.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\obj\Debug\netcoreapp3.1\romanToDecimal.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\obj\Debug\netcoreapp3.1\romanToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\obj\Debug\netcoreapp3.1\romanToDecimal.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\obj\Debug\netcoreapp3.1\romanToDecimal.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\obj\Debug\netcoreapp3.1\romanToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\obj\Debug\netcoreapp3.1\romanToDecimal.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\obj\Debug\netcoreapp3.1\romanToDecimal.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\romanToDecimal\obj\Debug\netcoreapp3.1\romanToDecimal.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExZAykqLprZjf3t2PZjSdf4VeiyEzANfS0UU9C9GCJCAplbiw4GBpL5+zUIzN1229RYdA5gNLefIiKYPTs1GsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 5\\Isogram\\Isogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

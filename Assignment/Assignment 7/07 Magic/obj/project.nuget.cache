@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJQI5hgwMXBcQKwsoZzdTkrRZhUiN1cq0JN60Pl55lcLSDXvJktZTFE59kPKOkkhIfBP4cjA90158Wesdb0g9g==",
+  "success": true,
+  "projectFilePath": "D:\\semester1\\Programming Fundamentals\\Assignment\\Assignment 7\\Magic\\Magic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

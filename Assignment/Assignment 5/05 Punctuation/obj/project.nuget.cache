@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfpby7KSTAQQFxMqyPC2BKaoM3/kqYHRO32q5dZqoEJbHsEePhB1V58WGJYCkBR/U9nb6f9G9y+zAm0KCcgb0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 5\\Punctuation\\Punctuation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

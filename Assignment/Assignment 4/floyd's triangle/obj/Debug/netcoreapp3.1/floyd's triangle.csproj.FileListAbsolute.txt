@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\bin\Debug\netcoreapp3.1\floyd's triangle.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\bin\Debug\netcoreapp3.1\floyd's triangle.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\bin\Debug\netcoreapp3.1\floyd's triangle.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\bin\Debug\netcoreapp3.1\floyd's triangle.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\bin\Debug\netcoreapp3.1\floyd's triangle.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\bin\Debug\netcoreapp3.1\floyd's triangle.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\obj\Debug\netcoreapp3.1\floyd's triangle.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\obj\Debug\netcoreapp3.1\floyd's triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\obj\Debug\netcoreapp3.1\floyd's triangle.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\obj\Debug\netcoreapp3.1\floyd's triangle.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\obj\Debug\netcoreapp3.1\floyd's triangle.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\obj\Debug\netcoreapp3.1\floyd's triangle.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\obj\Debug\netcoreapp3.1\floyd's triangle.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\floyd's triangle\obj\Debug\netcoreapp3.1\floyd's triangle.genruntimeconfig.cache

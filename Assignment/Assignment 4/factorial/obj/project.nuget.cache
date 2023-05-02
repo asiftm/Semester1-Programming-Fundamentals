@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jv3gorvZjVpoGjvnXRvBNRCVr3WowBRi+XlWDS/mAZoEx6QrGvBb5UJEEzAyRszlhxf7W2Po06MyrfkUYfBA5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 4\\factorial\\factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.exe
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.deps.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.runtimeconfig.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.genruntimeconfig.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\bin\Debug\netcoreapp3.1\w3.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\w3\obj\Debug\netcoreapp3.1\w3.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\bin\Debug\netcoreapp3.1\Punctuation.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\bin\Debug\netcoreapp3.1\Punctuation.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\bin\Debug\netcoreapp3.1\Punctuation.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\bin\Debug\netcoreapp3.1\Punctuation.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\bin\Debug\netcoreapp3.1\Punctuation.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\bin\Debug\netcoreapp3.1\Punctuation.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\obj\Debug\netcoreapp3.1\Punctuation.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\obj\Debug\netcoreapp3.1\Punctuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\obj\Debug\netcoreapp3.1\Punctuation.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\obj\Debug\netcoreapp3.1\Punctuation.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\obj\Debug\netcoreapp3.1\Punctuation.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\obj\Debug\netcoreapp3.1\Punctuation.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\obj\Debug\netcoreapp3.1\Punctuation.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Punctuation\obj\Debug\netcoreapp3.1\Punctuation.genruntimeconfig.cache

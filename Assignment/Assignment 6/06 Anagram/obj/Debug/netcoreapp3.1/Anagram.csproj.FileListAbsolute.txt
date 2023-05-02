@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\bin\Debug\netcoreapp3.1\Anagram.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\bin\Debug\netcoreapp3.1\Anagram.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\bin\Debug\netcoreapp3.1\Anagram.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\bin\Debug\netcoreapp3.1\Anagram.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\bin\Debug\netcoreapp3.1\Anagram.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\bin\Debug\netcoreapp3.1\Anagram.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\obj\Debug\netcoreapp3.1\Anagram.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\obj\Debug\netcoreapp3.1\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\obj\Debug\netcoreapp3.1\Anagram.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\obj\Debug\netcoreapp3.1\Anagram.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\obj\Debug\netcoreapp3.1\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\obj\Debug\netcoreapp3.1\Anagram.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\obj\Debug\netcoreapp3.1\Anagram.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 6\Anagram\obj\Debug\netcoreapp3.1\Anagram.genruntimeconfig.cache

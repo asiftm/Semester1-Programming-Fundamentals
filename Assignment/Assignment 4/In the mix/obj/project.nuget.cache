@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wG8usrCtlSJlWry023s9lPiB5W9gzo33gQX7NKJbFIOkS6MtJ7EhDuhJwA1PQ24lS7K0LsRuPRELKgb7BzQ/UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 4\\In the mix\\In the mix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GrVHW6o+svtaM1r9HDzn4drzwkUvgXssIxXFnFj6Cq32VaXqonH9Vi6qsk8Vk+qsOFmd+hOpdleITTgwWh0qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\C# practice\\reverseArray\\reverseArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

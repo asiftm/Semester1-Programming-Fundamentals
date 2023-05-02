@@ -1,0 +1,15 @@
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\bin\Debug\net6.0\03 conditionals.exe
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\bin\Debug\net6.0\03 conditionals.deps.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\bin\Debug\net6.0\03 conditionals.runtimeconfig.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\bin\Debug\net6.0\03 conditionals.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\bin\Debug\net6.0\03 conditionals.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\03 conditionals.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\03 conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\03 conditionals.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\03 conditionals.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\03 conditionals.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\03 conditionals.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\refint\03 conditionals.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\03 conditionals.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\03 conditionals.genruntimeconfig.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03 conditionals\obj\Debug\net6.0\ref\03 conditionals.dll

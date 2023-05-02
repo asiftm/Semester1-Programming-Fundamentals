@@ -1,0 +1,14 @@
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\bin\Debug\netcoreapp3.1\classTest2.exe
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\bin\Debug\netcoreapp3.1\classTest2.deps.json
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\bin\Debug\netcoreapp3.1\classTest2.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\bin\Debug\netcoreapp3.1\classTest2.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\bin\Debug\netcoreapp3.1\classTest2.dll
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\bin\Debug\netcoreapp3.1\classTest2.pdb
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\obj\Debug\netcoreapp3.1\classTest2.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\obj\Debug\netcoreapp3.1\classTest2.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\obj\Debug\netcoreapp3.1\classTest2.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\obj\Debug\netcoreapp3.1\classTest2.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\obj\Debug\netcoreapp3.1\classTest2.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\obj\Debug\netcoreapp3.1\classTest2.dll
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\obj\Debug\netcoreapp3.1\classTest2.pdb
+D:\semester1\Programming Fundamentals\Class\collections\classTest2\obj\Debug\netcoreapp3.1\classTest2.genruntimeconfig.cache

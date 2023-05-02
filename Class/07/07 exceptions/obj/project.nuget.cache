@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0sM3buEemz2Yb52Ixk5XtEDyFjC2J2GabdZ1iSLBLTS2O30u8SpZSLygJt6ZO8m81fcmrUg+/7hMcMb1c9Qxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Class\\07\\07 exceptions\\07 exceptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

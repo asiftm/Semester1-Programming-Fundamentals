@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjWq+OxutNTmlpm/5qgrJwF89MnShSczkGw8ZBQHk2RAFQpjpP5ovCxaSVna9kGXp5xNFqd3q6XxOFDZCqQVjA==",
+  "success": true,
+  "projectFilePath": "D:\\semester1\\Programming Fundamentals\\Assignment\\Assignment 7\\07 Character sum\\Character sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\bin\Debug\netcoreapp3.1\In the mix.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\bin\Debug\netcoreapp3.1\In the mix.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\bin\Debug\netcoreapp3.1\In the mix.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\bin\Debug\netcoreapp3.1\In the mix.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\bin\Debug\netcoreapp3.1\In the mix.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\bin\Debug\netcoreapp3.1\In the mix.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\obj\Debug\netcoreapp3.1\In the mix.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\obj\Debug\netcoreapp3.1\In the mix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\obj\Debug\netcoreapp3.1\In the mix.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\obj\Debug\netcoreapp3.1\In the mix.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\obj\Debug\netcoreapp3.1\In the mix.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\obj\Debug\netcoreapp3.1\In the mix.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\obj\Debug\netcoreapp3.1\In the mix.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\In the mix\obj\Debug\netcoreapp3.1\In the mix.genruntimeconfig.cache

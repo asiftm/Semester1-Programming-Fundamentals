@@ -1,0 +1,14 @@
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\bin\Debug\netcoreapp3.1\Hits per year.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\bin\Debug\netcoreapp3.1\Hits per year.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\bin\Debug\netcoreapp3.1\Hits per year.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\bin\Debug\netcoreapp3.1\Hits per year.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\bin\Debug\netcoreapp3.1\Hits per year.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\bin\Debug\netcoreapp3.1\Hits per year.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\obj\Debug\netcoreapp3.1\Hits per year.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\obj\Debug\netcoreapp3.1\Hits per year.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\obj\Debug\netcoreapp3.1\Hits per year.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\obj\Debug\netcoreapp3.1\Hits per year.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\obj\Debug\netcoreapp3.1\Hits per year.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\obj\Debug\netcoreapp3.1\Hits per year.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\obj\Debug\netcoreapp3.1\Hits per year.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Hits per year\obj\Debug\netcoreapp3.1\Hits per year.genruntimeconfig.cache

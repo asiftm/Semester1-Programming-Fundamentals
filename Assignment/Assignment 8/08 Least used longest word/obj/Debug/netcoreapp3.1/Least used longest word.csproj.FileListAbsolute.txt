@@ -1,0 +1,14 @@
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\bin\Debug\netcoreapp3.1\Least used longest word.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\bin\Debug\netcoreapp3.1\Least used longest word.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\bin\Debug\netcoreapp3.1\Least used longest word.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\bin\Debug\netcoreapp3.1\Least used longest word.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\bin\Debug\netcoreapp3.1\Least used longest word.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\bin\Debug\netcoreapp3.1\Least used longest word.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\obj\Debug\netcoreapp3.1\Least used longest word.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\obj\Debug\netcoreapp3.1\Least used longest word.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\obj\Debug\netcoreapp3.1\Least used longest word.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\obj\Debug\netcoreapp3.1\Least used longest word.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\obj\Debug\netcoreapp3.1\Least used longest word.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\obj\Debug\netcoreapp3.1\Least used longest word.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\obj\Debug\netcoreapp3.1\Least used longest word.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Least used longest word\obj\Debug\netcoreapp3.1\Least used longest word.genruntimeconfig.cache

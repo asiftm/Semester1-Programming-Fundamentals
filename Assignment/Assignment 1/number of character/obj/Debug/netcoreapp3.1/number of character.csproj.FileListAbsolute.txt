@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\bin\Debug\netcoreapp3.1\number of character.exe
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\bin\Debug\netcoreapp3.1\number of character.deps.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\bin\Debug\netcoreapp3.1\number of character.runtimeconfig.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\bin\Debug\netcoreapp3.1\number of character.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\bin\Debug\netcoreapp3.1\number of character.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\bin\Debug\netcoreapp3.1\number of character.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\obj\Debug\netcoreapp3.1\number of character.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\obj\Debug\netcoreapp3.1\number of character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\obj\Debug\netcoreapp3.1\number of character.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\obj\Debug\netcoreapp3.1\number of character.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\obj\Debug\netcoreapp3.1\number of character.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\obj\Debug\netcoreapp3.1\number of character.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\obj\Debug\netcoreapp3.1\number of character.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Assignment\Assignment 1\number of character\obj\Debug\netcoreapp3.1\number of character.genruntimeconfig.cache

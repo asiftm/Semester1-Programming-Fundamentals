@@ -1,0 +1,28 @@
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\bin\Debug\netcoreapp3.1\Most used smallest word.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\bin\Debug\netcoreapp3.1\Most used smallest word.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\bin\Debug\netcoreapp3.1\Most used smallest word.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\bin\Debug\netcoreapp3.1\Most used smallest word.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\bin\Debug\netcoreapp3.1\Most used smallest word.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\bin\Debug\netcoreapp3.1\Most used smallest word.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\obj\Debug\netcoreapp3.1\Most used smallest word.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\obj\Debug\netcoreapp3.1\Most used smallest word.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\obj\Debug\netcoreapp3.1\Most used smallest word.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\obj\Debug\netcoreapp3.1\Most used smallest word.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\obj\Debug\netcoreapp3.1\Most used smallest word.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\obj\Debug\netcoreapp3.1\Most used smallest word.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\obj\Debug\netcoreapp3.1\Most used smallest word.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Most used smallest word\obj\Debug\netcoreapp3.1\Most used smallest word.genruntimeconfig.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\bin\Debug\netcoreapp3.1\Most used smallest word.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\bin\Debug\netcoreapp3.1\Most used smallest word.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\bin\Debug\netcoreapp3.1\Most used smallest word.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\bin\Debug\netcoreapp3.1\Most used smallest word.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\bin\Debug\netcoreapp3.1\Most used smallest word.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\bin\Debug\netcoreapp3.1\Most used smallest word.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\obj\Debug\netcoreapp3.1\Most used smallest word.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\obj\Debug\netcoreapp3.1\Most used smallest word.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\obj\Debug\netcoreapp3.1\Most used smallest word.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\obj\Debug\netcoreapp3.1\Most used smallest word.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\obj\Debug\netcoreapp3.1\Most used smallest word.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\obj\Debug\netcoreapp3.1\Most used smallest word.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\obj\Debug\netcoreapp3.1\Most used smallest word.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Most used smallest word,,,,not submited\obj\Debug\netcoreapp3.1\Most used smallest word.genruntimeconfig.cache

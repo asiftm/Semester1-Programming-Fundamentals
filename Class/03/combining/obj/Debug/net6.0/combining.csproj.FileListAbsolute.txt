@@ -1,0 +1,15 @@
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\combining.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\combining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\combining.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\combining.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\combining.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\bin\Debug\net6.0\combining.exe
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\bin\Debug\net6.0\combining.deps.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\bin\Debug\net6.0\combining.runtimeconfig.json
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\bin\Debug\net6.0\combining.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\bin\Debug\net6.0\combining.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\combining.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\refint\combining.dll
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\combining.pdb
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\combining.genruntimeconfig.cache
+C:\Users\WALTON\Desktop\All Classes\Programming Fundamentals\Class\03\combining\obj\Debug\net6.0\ref\combining.dll

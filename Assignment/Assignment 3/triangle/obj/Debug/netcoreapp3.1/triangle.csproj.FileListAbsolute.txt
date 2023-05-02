@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\bin\Debug\netcoreapp3.1\triangle.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\bin\Debug\netcoreapp3.1\triangle.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\bin\Debug\netcoreapp3.1\triangle.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\bin\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\obj\Debug\netcoreapp3.1\triangle.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\obj\Debug\netcoreapp3.1\triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\obj\Debug\netcoreapp3.1\triangle.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\obj\Debug\netcoreapp3.1\triangle.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\obj\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\triangle\obj\Debug\netcoreapp3.1\triangle.genruntimeconfig.cache

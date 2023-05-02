@@ -1,0 +1,14 @@
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\bin\Debug\netcoreapp3.1\Abundant.exe
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\bin\Debug\netcoreapp3.1\Abundant.deps.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\bin\Debug\netcoreapp3.1\Abundant.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\bin\Debug\netcoreapp3.1\Abundant.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\bin\Debug\netcoreapp3.1\Abundant.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\bin\Debug\netcoreapp3.1\Abundant.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\obj\Debug\netcoreapp3.1\Abundant.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\obj\Debug\netcoreapp3.1\Abundant.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\obj\Debug\netcoreapp3.1\Abundant.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\obj\Debug\netcoreapp3.1\Abundant.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\obj\Debug\netcoreapp3.1\Abundant.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\obj\Debug\netcoreapp3.1\Abundant.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\obj\Debug\netcoreapp3.1\Abundant.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Abundant\obj\Debug\netcoreapp3.1\Abundant.genruntimeconfig.cache

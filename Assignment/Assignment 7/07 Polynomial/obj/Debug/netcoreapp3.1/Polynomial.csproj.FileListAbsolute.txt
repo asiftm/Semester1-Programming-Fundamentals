@@ -1,0 +1,14 @@
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.exe
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.deps.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\bin\Debug\netcoreapp3.1\Polynomial.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Polynomial\obj\Debug\netcoreapp3.1\Polynomial.genruntimeconfig.cache

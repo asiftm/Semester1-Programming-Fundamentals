@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\bin\Debug\netcoreapp3.1\sadman.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\bin\Debug\netcoreapp3.1\sadman.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\bin\Debug\netcoreapp3.1\sadman.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\bin\Debug\netcoreapp3.1\sadman.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\bin\Debug\netcoreapp3.1\sadman.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\bin\Debug\netcoreapp3.1\sadman.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\obj\Debug\netcoreapp3.1\sadman.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\obj\Debug\netcoreapp3.1\sadman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\obj\Debug\netcoreapp3.1\sadman.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\obj\Debug\netcoreapp3.1\sadman.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\obj\Debug\netcoreapp3.1\sadman.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\obj\Debug\netcoreapp3.1\sadman.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\obj\Debug\netcoreapp3.1\sadman.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\sadman\obj\Debug\netcoreapp3.1\sadman.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\bin\Debug\netcoreapp3.1\ASCII.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\bin\Debug\netcoreapp3.1\ASCII.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\bin\Debug\netcoreapp3.1\ASCII.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\bin\Debug\netcoreapp3.1\ASCII.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\bin\Debug\netcoreapp3.1\ASCII.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\bin\Debug\netcoreapp3.1\ASCII.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\obj\Debug\netcoreapp3.1\ASCII.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\obj\Debug\netcoreapp3.1\ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\obj\Debug\netcoreapp3.1\ASCII.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\obj\Debug\netcoreapp3.1\ASCII.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\obj\Debug\netcoreapp3.1\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\obj\Debug\netcoreapp3.1\ASCII.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\obj\Debug\netcoreapp3.1\ASCII.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\ASCII\obj\Debug\netcoreapp3.1\ASCII.genruntimeconfig.cache

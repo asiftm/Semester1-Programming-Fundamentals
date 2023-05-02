@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Dgfe6dIkz1P6/Iy1QQy/8g6PPq8fOmU8fJYpJy4UG1FGbclG0tzdPiXC1pMfPIe3ghDTJUMAJ56kThu9r/3vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 3\\03 Roots\\03 Roots.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

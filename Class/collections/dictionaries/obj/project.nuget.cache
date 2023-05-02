@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aUQZM0FHvLb4xacAMK5sezPovm12fk8ozZ0b7+78CNkfsAyQtA4fjR0F1ODrvyqwCb8oVQesBAnKXW8Kp4BsdA==",
+  "success": true,
+  "projectFilePath": "Z:\\semester1\\Programming Fundamentals\\Class\\collections\\dictionaries\\dictionaries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

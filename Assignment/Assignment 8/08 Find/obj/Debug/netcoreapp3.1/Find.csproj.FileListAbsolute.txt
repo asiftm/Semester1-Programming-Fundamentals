@@ -1,0 +1,14 @@
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\bin\Debug\netcoreapp3.1\Find.exe
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\bin\Debug\netcoreapp3.1\Find.deps.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\bin\Debug\netcoreapp3.1\Find.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\bin\Debug\netcoreapp3.1\Find.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\bin\Debug\netcoreapp3.1\Find.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\bin\Debug\netcoreapp3.1\Find.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\obj\Debug\netcoreapp3.1\Find.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\obj\Debug\netcoreapp3.1\Find.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\obj\Debug\netcoreapp3.1\Find.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\obj\Debug\netcoreapp3.1\Find.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\obj\Debug\netcoreapp3.1\Find.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\obj\Debug\netcoreapp3.1\Find.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\obj\Debug\netcoreapp3.1\Find.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 8\Find\obj\Debug\netcoreapp3.1\Find.genruntimeconfig.cache

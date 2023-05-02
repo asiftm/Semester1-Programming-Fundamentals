@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\obj\Debug\netcoreapp3.1\Sequence.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\obj\Debug\netcoreapp3.1\Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\obj\Debug\netcoreapp3.1\Sequence.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\obj\Debug\netcoreapp3.1\Sequence.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\obj\Debug\netcoreapp3.1\Sequence.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\bin\Debug\netcoreapp3.1\Sequence.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\bin\Debug\netcoreapp3.1\Sequence.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\bin\Debug\netcoreapp3.1\Sequence.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\bin\Debug\netcoreapp3.1\Sequence.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\bin\Debug\netcoreapp3.1\Sequence.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\bin\Debug\netcoreapp3.1\Sequence.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\obj\Debug\netcoreapp3.1\Sequence.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\obj\Debug\netcoreapp3.1\Sequence.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Sequence\obj\Debug\netcoreapp3.1\Sequence.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yMZQTk+bJzg2QkdF8zs7Flia+TQmfxNH4V1djBo6CW9ZVTamuXtJj90cxWAnpNGY9Bv2bLc4b3bPsKPZqNQO3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 2\\DecimalPart\\DecimalPart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

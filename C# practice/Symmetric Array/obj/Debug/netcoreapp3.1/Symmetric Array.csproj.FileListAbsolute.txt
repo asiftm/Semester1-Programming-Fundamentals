@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\bin\Debug\netcoreapp3.1\Symmetric Array.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\bin\Debug\netcoreapp3.1\Symmetric Array.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\bin\Debug\netcoreapp3.1\Symmetric Array.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\bin\Debug\netcoreapp3.1\Symmetric Array.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\bin\Debug\netcoreapp3.1\Symmetric Array.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\bin\Debug\netcoreapp3.1\Symmetric Array.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\obj\Debug\netcoreapp3.1\Symmetric Array.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\obj\Debug\netcoreapp3.1\Symmetric Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\obj\Debug\netcoreapp3.1\Symmetric Array.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\obj\Debug\netcoreapp3.1\Symmetric Array.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\obj\Debug\netcoreapp3.1\Symmetric Array.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\obj\Debug\netcoreapp3.1\Symmetric Array.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\obj\Debug\netcoreapp3.1\Symmetric Array.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\Symmetric Array\obj\Debug\netcoreapp3.1\Symmetric Array.genruntimeconfig.cache

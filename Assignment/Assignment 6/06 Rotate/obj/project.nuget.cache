@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7N58MLfw5uKQPBJpsUudm7TdCBnR2l+AXYhXbNedpzeAeE2UJ/h+iR1JRDQFWFvVkFkoKq19NBmWgb7vP4/lQ==",
+  "success": true,
+  "projectFilePath": "D:\\semester1\\Programming Fundamentals\\Assignment\\Assignment 6\\06 Rotate\\Rotate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

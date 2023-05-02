@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\obj\Debug\netcoreapp3.1\Smallest.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\obj\Debug\netcoreapp3.1\Smallest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\obj\Debug\netcoreapp3.1\Smallest.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\obj\Debug\netcoreapp3.1\Smallest.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\obj\Debug\netcoreapp3.1\Smallest.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\bin\Debug\netcoreapp3.1\Smallest.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\bin\Debug\netcoreapp3.1\Smallest.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\bin\Debug\netcoreapp3.1\Smallest.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\bin\Debug\netcoreapp3.1\Smallest.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\bin\Debug\netcoreapp3.1\Smallest.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\bin\Debug\netcoreapp3.1\Smallest.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\obj\Debug\netcoreapp3.1\Smallest.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\obj\Debug\netcoreapp3.1\Smallest.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Smallest\obj\Debug\netcoreapp3.1\Smallest.genruntimeconfig.cache

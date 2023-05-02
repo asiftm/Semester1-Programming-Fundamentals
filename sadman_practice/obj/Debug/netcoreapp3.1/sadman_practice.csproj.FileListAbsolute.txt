@@ -1,0 +1,14 @@
+Z:\semester1\Programming Fundamentals\sadman_practice\bin\Debug\netcoreapp3.1\sadman_practice.exe
+Z:\semester1\Programming Fundamentals\sadman_practice\bin\Debug\netcoreapp3.1\sadman_practice.deps.json
+Z:\semester1\Programming Fundamentals\sadman_practice\bin\Debug\netcoreapp3.1\sadman_practice.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\sadman_practice\bin\Debug\netcoreapp3.1\sadman_practice.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\sadman_practice\bin\Debug\netcoreapp3.1\sadman_practice.dll
+Z:\semester1\Programming Fundamentals\sadman_practice\bin\Debug\netcoreapp3.1\sadman_practice.pdb
+Z:\semester1\Programming Fundamentals\sadman_practice\obj\Debug\netcoreapp3.1\sadman_practice.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\sadman_practice\obj\Debug\netcoreapp3.1\sadman_practice.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\sadman_practice\obj\Debug\netcoreapp3.1\sadman_practice.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\sadman_practice\obj\Debug\netcoreapp3.1\sadman_practice.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\sadman_practice\obj\Debug\netcoreapp3.1\sadman_practice.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\sadman_practice\obj\Debug\netcoreapp3.1\sadman_practice.dll
+Z:\semester1\Programming Fundamentals\sadman_practice\obj\Debug\netcoreapp3.1\sadman_practice.pdb
+Z:\semester1\Programming Fundamentals\sadman_practice\obj\Debug\netcoreapp3.1\sadman_practice.genruntimeconfig.cache

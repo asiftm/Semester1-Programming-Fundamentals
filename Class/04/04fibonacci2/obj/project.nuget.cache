@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zEpWznlFD0utJLaE8fVvDen4i4V4c8s8G2sDkvAT5UFR2ZwDJ2ugYyKCB3TB7eXCZ09rlUL1RPKsHtN+Nvw44A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Class\\04\\04fibonacci2\\04fibonacci2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

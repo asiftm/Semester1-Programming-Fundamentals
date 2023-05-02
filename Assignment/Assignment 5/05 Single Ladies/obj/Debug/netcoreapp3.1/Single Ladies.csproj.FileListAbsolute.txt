@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\bin\Debug\netcoreapp3.1\Single Ladies.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\bin\Debug\netcoreapp3.1\Single Ladies.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\bin\Debug\netcoreapp3.1\Single Ladies.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\bin\Debug\netcoreapp3.1\Single Ladies.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\bin\Debug\netcoreapp3.1\Single Ladies.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\bin\Debug\netcoreapp3.1\Single Ladies.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\obj\Debug\netcoreapp3.1\Single Ladies.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\obj\Debug\netcoreapp3.1\Single Ladies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\obj\Debug\netcoreapp3.1\Single Ladies.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\obj\Debug\netcoreapp3.1\Single Ladies.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\obj\Debug\netcoreapp3.1\Single Ladies.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\obj\Debug\netcoreapp3.1\Single Ladies.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\obj\Debug\netcoreapp3.1\Single Ladies.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Single Ladies\obj\Debug\netcoreapp3.1\Single Ladies.genruntimeconfig.cache

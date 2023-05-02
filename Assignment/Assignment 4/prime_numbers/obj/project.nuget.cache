@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmplkZLr1XohiMXXa+pp4UpVJm/5rdMtk03jWtqrzQ/A2J7heBlsOdA77IZnrTy4F2D+MP4ryOA+Iei8eu9IMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 4\\prime_numbers\\prime_numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

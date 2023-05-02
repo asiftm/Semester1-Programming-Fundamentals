@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\bin\Debug\netcoreapp3.1\06average.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\bin\Debug\netcoreapp3.1\06average.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\bin\Debug\netcoreapp3.1\06average.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\bin\Debug\netcoreapp3.1\06average.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\bin\Debug\netcoreapp3.1\06average.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\bin\Debug\netcoreapp3.1\06average.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\obj\Debug\netcoreapp3.1\06average.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\obj\Debug\netcoreapp3.1\06average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\obj\Debug\netcoreapp3.1\06average.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\obj\Debug\netcoreapp3.1\06average.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\obj\Debug\netcoreapp3.1\06average.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\obj\Debug\netcoreapp3.1\06average.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\obj\Debug\netcoreapp3.1\06average.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\06average\obj\Debug\netcoreapp3.1\06average.genruntimeconfig.cache

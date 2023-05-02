@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SCN/2t9WKB+7GsRfTpTMW8fXia69fIo7BKpxa2LhITZryKRXHnO+iyTzDVzZoD0BGVR2jLZES/ar73U9sHnhuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 4\\Harmonic_series\\Harmonic_series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

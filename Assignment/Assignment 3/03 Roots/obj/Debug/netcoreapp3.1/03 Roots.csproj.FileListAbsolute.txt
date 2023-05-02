@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\bin\Debug\netcoreapp3.1\03 Roots.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\bin\Debug\netcoreapp3.1\03 Roots.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\bin\Debug\netcoreapp3.1\03 Roots.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\bin\Debug\netcoreapp3.1\03 Roots.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\bin\Debug\netcoreapp3.1\03 Roots.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\bin\Debug\netcoreapp3.1\03 Roots.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\obj\Debug\netcoreapp3.1\03 Roots.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\obj\Debug\netcoreapp3.1\03 Roots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\obj\Debug\netcoreapp3.1\03 Roots.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\obj\Debug\netcoreapp3.1\03 Roots.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\obj\Debug\netcoreapp3.1\03 Roots.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\obj\Debug\netcoreapp3.1\03 Roots.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\obj\Debug\netcoreapp3.1\03 Roots.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\03 Roots\obj\Debug\netcoreapp3.1\03 Roots.genruntimeconfig.cache

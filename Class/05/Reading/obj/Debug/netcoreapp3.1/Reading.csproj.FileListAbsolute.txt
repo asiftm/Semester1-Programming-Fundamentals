@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\bin\Debug\netcoreapp3.1\Reading.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\bin\Debug\netcoreapp3.1\Reading.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\bin\Debug\netcoreapp3.1\Reading.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\bin\Debug\netcoreapp3.1\Reading.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\bin\Debug\netcoreapp3.1\Reading.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\bin\Debug\netcoreapp3.1\Reading.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\obj\Debug\netcoreapp3.1\Reading.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\obj\Debug\netcoreapp3.1\Reading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\obj\Debug\netcoreapp3.1\Reading.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\obj\Debug\netcoreapp3.1\Reading.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\obj\Debug\netcoreapp3.1\Reading.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\obj\Debug\netcoreapp3.1\Reading.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\obj\Debug\netcoreapp3.1\Reading.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Class\05\Reading\obj\Debug\netcoreapp3.1\Reading.genruntimeconfig.cache

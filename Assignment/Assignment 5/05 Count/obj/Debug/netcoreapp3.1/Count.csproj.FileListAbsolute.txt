@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\bin\Debug\netcoreapp3.1\Count.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\bin\Debug\netcoreapp3.1\Count.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\bin\Debug\netcoreapp3.1\Count.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\bin\Debug\netcoreapp3.1\Count.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\obj\Debug\netcoreapp3.1\Count.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\obj\Debug\netcoreapp3.1\Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\obj\Debug\netcoreapp3.1\Count.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\obj\Debug\netcoreapp3.1\Count.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\obj\Debug\netcoreapp3.1\Count.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Count\obj\Debug\netcoreapp3.1\Count.genruntimeconfig.cache

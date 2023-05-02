@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\bin\Debug\netcoreapp3.1\Harmonic_series.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\bin\Debug\netcoreapp3.1\Harmonic_series.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\bin\Debug\netcoreapp3.1\Harmonic_series.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\bin\Debug\netcoreapp3.1\Harmonic_series.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\bin\Debug\netcoreapp3.1\Harmonic_series.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\bin\Debug\netcoreapp3.1\Harmonic_series.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\obj\Debug\netcoreapp3.1\Harmonic_series.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\obj\Debug\netcoreapp3.1\Harmonic_series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\obj\Debug\netcoreapp3.1\Harmonic_series.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\obj\Debug\netcoreapp3.1\Harmonic_series.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\obj\Debug\netcoreapp3.1\Harmonic_series.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\obj\Debug\netcoreapp3.1\Harmonic_series.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\obj\Debug\netcoreapp3.1\Harmonic_series.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\Harmonic_series\obj\Debug\netcoreapp3.1\Harmonic_series.genruntimeconfig.cache

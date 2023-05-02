@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\bin\Debug\netcoreapp3.1\Me, myself and I.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\bin\Debug\netcoreapp3.1\Me, myself and I.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\bin\Debug\netcoreapp3.1\Me, myself and I.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\bin\Debug\netcoreapp3.1\Me, myself and I.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\bin\Debug\netcoreapp3.1\Me, myself and I.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\bin\Debug\netcoreapp3.1\Me, myself and I.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\obj\Debug\netcoreapp3.1\Me, myself and I.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\obj\Debug\netcoreapp3.1\Me, myself and I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\obj\Debug\netcoreapp3.1\Me, myself and I.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\obj\Debug\netcoreapp3.1\Me, myself and I.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\obj\Debug\netcoreapp3.1\Me, myself and I.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\obj\Debug\netcoreapp3.1\Me, myself and I.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\obj\Debug\netcoreapp3.1\Me, myself and I.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Me, myself and I\obj\Debug\netcoreapp3.1\Me, myself and I.genruntimeconfig.cache

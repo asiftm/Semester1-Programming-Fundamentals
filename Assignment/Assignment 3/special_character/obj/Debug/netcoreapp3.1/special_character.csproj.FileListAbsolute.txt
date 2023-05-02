@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\bin\Debug\netcoreapp3.1\special_character.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\bin\Debug\netcoreapp3.1\special_character.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\bin\Debug\netcoreapp3.1\special_character.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\bin\Debug\netcoreapp3.1\special_character.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\bin\Debug\netcoreapp3.1\special_character.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\bin\Debug\netcoreapp3.1\special_character.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\obj\Debug\netcoreapp3.1\special_character.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\obj\Debug\netcoreapp3.1\special_character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\obj\Debug\netcoreapp3.1\special_character.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\obj\Debug\netcoreapp3.1\special_character.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\obj\Debug\netcoreapp3.1\special_character.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\obj\Debug\netcoreapp3.1\special_character.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\obj\Debug\netcoreapp3.1\special_character.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\special_character\obj\Debug\netcoreapp3.1\special_character.genruntimeconfig.cache

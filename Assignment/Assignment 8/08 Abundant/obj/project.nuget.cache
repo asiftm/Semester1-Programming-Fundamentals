@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8nRKRrH7O22er9RDSf2hbDl3XEdQ6sseT52YIA4noUSf3gOHPOWx+Nz9M+/WOAj107yQ0e4sP28M19Xd089UcQ==",
+  "success": true,
+  "projectFilePath": "Z:\\semester1\\Programming Fundamentals\\Assignment\\Assignment 8\\08 Abundant\\Abundant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\bin\Debug\netcoreapp3.1\06 ending.exe
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\bin\Debug\netcoreapp3.1\06 ending.deps.json
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\bin\Debug\netcoreapp3.1\06 ending.runtimeconfig.json
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\bin\Debug\netcoreapp3.1\06 ending.runtimeconfig.dev.json
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\bin\Debug\netcoreapp3.1\06 ending.dll
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\bin\Debug\netcoreapp3.1\06 ending.pdb
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\obj\Debug\netcoreapp3.1\06 ending.csproj.AssemblyReference.cache
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\obj\Debug\netcoreapp3.1\06 ending.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\obj\Debug\netcoreapp3.1\06 ending.AssemblyInfoInputs.cache
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\obj\Debug\netcoreapp3.1\06 ending.AssemblyInfo.cs
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\obj\Debug\netcoreapp3.1\06 ending.csproj.CoreCompileInputs.cache
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\obj\Debug\netcoreapp3.1\06 ending.dll
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\obj\Debug\netcoreapp3.1\06 ending.pdb
+E:\Study\Classes\Programming Fundamentals\C# practice\06 ending\obj\Debug\netcoreapp3.1\06 ending.genruntimeconfig.cache

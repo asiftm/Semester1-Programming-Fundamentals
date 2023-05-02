@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mw1CYzJjxYuFEhSiVgGvDy2p1VWhAKi9uXgjI/GNaIW29ov2Pj89xJcPmK3J8NlxLetP2X0tABhH3cjDZGqd7g==",
+  "success": true,
+  "projectFilePath": "D:\\semester1\\Programming Fundamentals\\Assignment\\Assignment 7\\07 Multiplication\\Multiplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

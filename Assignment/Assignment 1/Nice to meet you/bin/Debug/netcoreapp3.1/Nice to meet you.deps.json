@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Nice to meet you/1.0.0": {
+        "runtime": {
+          "Nice to meet you.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nice to meet you/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

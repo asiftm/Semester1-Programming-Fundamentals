@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cR8cUJrrZrCznH2sGhJPKKtqKYW8Fo90Kvg4MGZRaVikZ+Lzh6jv8ZAvXn6VrNzeFLu3HT8Fms7HnI4bVpkQrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 4\\Next_Fibonacci\\Next_Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

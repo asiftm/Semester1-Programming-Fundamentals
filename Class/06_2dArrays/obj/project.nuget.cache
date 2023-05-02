@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5xCqxdzPtz636khnr3ThFsgy/HRxSRqMv30cqHJEK5B75Xk4iqcolS4QKpK/ZlgcvLqK+iDVw4d/A3z6+WjbJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Class\\06_2dArrays\\06_2dArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

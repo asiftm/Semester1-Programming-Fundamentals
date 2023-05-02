@@ -1,0 +1,42 @@
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.csproj.AssemblyReference.cache
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.AssemblyInfoInputs.cache
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.AssemblyInfo.cs
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.csproj.CoreCompileInputs.cache
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.exe
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.deps.json
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.runtimeconfig.json
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.runtimeconfig.dev.json
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.dll
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.pdb
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.dll
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.pdb
+E:\Study\Classes\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.genruntimeconfig.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.exe
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.deps.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.genruntimeconfig.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.exe
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.deps.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\bin\Debug\netcoreapp3.1\Run-length encoding.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\07 Run-length encoding\obj\Debug\netcoreapp3.1\Run-length encoding.genruntimeconfig.cache

@@ -1,0 +1,541 @@
+using System;
+
+namespace Missing
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //input
+            string input = Console.ReadLine();
+            string[] strArray = input.Split(" ");
+            int[] array = Array.ConvertAll(strArray, int.Parse);
+
+            //finding the largest value
+            int largest = 0;
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                while (array[i] > largest)
+                {
+                    largest = array[i];
+                }
+            }
+
+            //finding the smallest value
+            int smallest = largest - array.Length;
+
+            //calculating estimated total
+            int sum = 0;
+
+            for (int i = 0; i <= array.Length; i++)
+            {
+                sum=sum+smallest;
+                smallest++;
+            }
+
+            //calculating actual total
+            int arraySum = 0;
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                arraySum=arraySum+array[i];
+            }
+           
+            //the missing value
+            int missing = sum - arraySum;
+
+            //output
+            if(missing == 0)
+            {
+                Console.WriteLine("There is no missing link!");
+            }
+            else
+            {
+                Console.WriteLine(missing);
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+using System;
+
+namespace flip
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string input1 = Console.ReadLine();//first input
+            string store = input1;
+
+            for (int i = 1; i < input1.Length; i++)
+            {   
+                string input2 = Console.ReadLine();//asking for input untill its a square matrix
+                store = store+" "+input2;
+            }
+
+            string[] array = store.Split(" ");//majing an array
+
+            for (int i = array.Length - 1; i>=0; i--)
+            {
+                Console.WriteLine(array[i]); //printing the input values from down to up
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+using System;
+
+namespace Insert
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string inputArray = Console.ReadLine();//reading an array
+            string aValue = Console.ReadLine();//reading a value
+
+            string allValue = inputArray + " " + aValue;//adding all the values
+
+            string[] newArray = allValue.Split(" "); //making an array
+
+            int[] array = Array.ConvertAll(newArray, int.Parse);//converting to int
+             
+            int temp = 0;
+
+            for (int i = 0; i <array.Length; i++)
+            {
+                for (int j = i + 1; j < array.Length; j++)
+                {
+                    if (array[i] > array[j])
+                    {
+                        temp = array[i];
+                        array[i] = array[j];
+                        array[j] = temp;
+                    }
+                }
+            }
+            foreach (int item in array)
+            {
+                Console.Write($"{item} ");
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+using System;
+
+namespace Merge
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string inputArray1 = Console.ReadLine();//reading an input
+            string inputArray2 = Console.ReadLine();//reading another input
+
+            string allValue = inputArray1 + " " + inputArray2;//adding the inputs
+
+            string[] newArray = allValue.Split(" "); //making an array
+
+            int[] array = Array.ConvertAll(newArray, int.Parse);//converting to int
+             
+            int temp = 0;
+
+            for (int i = 0; i <array.Length; i++)
+            {
+                for (int j = i + 1; j < array.Length; j++)
+                {
+                    if (array[i] < array[j])
+                    {
+                        temp = array[i];
+                        array[i] = array[j];
+                        array[j] = temp;
+                    }
+                }
+            }
+            foreach (int item in array)
+            {
+                Console.Write($"{item} ");
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+using System;
+
+namespace Duplicates
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Reading the input
+            string input = Console.ReadLine();
+
+            //making an array
+            string[] array = input.Split(" ");
+
+            //new variables
+            string store = string.Empty;
+            int count = 0;
+
+            for (int i = 0; i < array.Length; i++)//putting the array values into the loop
+            {
+                if (!store.Contains(array[i]))//cheching if they're not duplicates
+                {
+                    store =store +" "+ array[i];
+                }
+                else//count the duplicates
+                {
+                    count++;
+                }
+            }
+            //output
+            Console.WriteLine(count);
+        } 
+    }
+}
+
+
+
+
+
+
+
+
+
+using System;
+
+
+namespace Rotate
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string input = Console.ReadLine();
+            string[] newArray = input.Split(" ");
+            int[] array = Array.ConvertAll(newArray, int.Parse);
+
+            int number = Convert.ToInt32(Console.ReadLine());
+
+            string output1 = string.Empty;
+            string output2 = string.Empty;
+
+            if( number >= 0 )
+            {
+                for (int i = 0; i <= array.Length; i++)
+                {
+                    if (i < number)
+                    {
+                        output1 = output1 + array[i] + " ";
+                    }
+                    else if ((number >= i) && (number < array.Length))
+                    {
+                        output2 = output2 + array[number] + " ";
+                        number++;
+                    }
+                }
+                Console.WriteLine(output2 + output1);
+            }
+
+            else
+            {
+                int numberPos = number * (-1);
+
+                for (int i = 0; i <= array.Length; i++)
+                {
+                    int num = array.Length - numberPos;
+                    if(i<num)
+                    {
+                        output1 = output1 + array[i] + " ";
+                    }
+                    else if(i>num)
+                    {
+                        for (int j = (array.Length-numberPos); j < array.Length; j++)
+                        {
+                            output2 =output2 + array[j] + " ";
+                        }
+                        
+                    }
+                }
+                Console.WriteLine(output2 + output1);   
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+using System;
+
+namespace second
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string input = Console.ReadLine();//input
+            string[] strArray = input.Split(" ");//input to string array
+            int[] array = Array.ConvertAll(strArray, int.Parse);//string array to int array
+
+            //sorting the numbers small to large
+            int temp = 0;
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                for (int j = i + 1; j < array.Length; j++)
+                {
+                    if (array[i] > array[j])
+                    {
+                        temp = array[i];
+                        array[i] = array[j];
+                        array[j] = temp;
+                    }
+                }
+            }
+
+            //removingthe duplicates
+            int size = array.Length;
+
+            for (int i = 0; i < size; i++)
+            {
+                for (int j = i + 1; j < size; j++)
+                {
+                    if (array[i] == array[j])
+                    {
+                        for (int k = j; k < size - 1; k++)
+                        {
+                            array[k] = array[k + 1];
+                        }
+                        j--;
+                        size--;
+                    }
+                }
+            }
+            
+            //printing the second largest value
+            int second = array[size-1-1];
+            Console.WriteLine(second);
+        }
+    }
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+using System;
+
+namespace Anagram
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string input1 = Console.ReadLine();
+            string input2 = Console.ReadLine();
+
+            string lower1 = input1.ToLower();
+            string lower2 = input2.ToLower();
+
+            string one = lower1.Replace(" ", "");
+            string two = lower2.Replace(" ", "");
+
+            int count = 0;
+
+            for (int i = 0; i < one.Length; i++)
+            {
+                if (two.Contains(one[i]))
+                {
+                    count++;
+                }
+            }
+            if ((count == one.Length) && (count == two.Length))
+            {
+                Console.WriteLine("True");
+            }
+            else
+            {
+                Console.WriteLine("False");
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+using System;
+
+namespace Ending
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //INPUT
+            string input = Console.ReadLine();
+
+            //spliting the input into an array
+            string[] array = input.Split(" ");
+
+            //array into two strings
+            string firstStr = array[0];
+            string secondStr = array[1];
+
+            //variable to store output values
+            string store = string.Empty;
+
+            //for the length of second string
+            int num = secondStr.Length;
+
+
+            for (int i = (firstStr.Length - 1); i >= 0; i--) //checking from the last latter of first string
+            {
+                if(firstStr[i] == secondStr[num-1]) //compairing both strings latter by latter from the ending
+                {
+                    store = store + firstStr[i]; //similar latters storing in store variable
+                    num--;
+                }
+                else //if the latters are different then breaking the for loop
+                {
+                    break; //breaking the for loop
+                }
+            }
+
+            //output values stored in store variable are in backwards.
+            for (int j = store.Length - 1; j >= 0; j--) //using for loop to rearange the latters in right order
+            {
+                Console.Write(store[j]); //printing the values
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+using System;
+using System.IO;
+using System.Text.RegularExpressions;
+
+namespace Sum
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //open a file, read the full text and close
+            StreamReader reader = File.OpenText(Console.ReadLine());
+            string text = reader.ReadToEnd();
+            reader.Close();
+
+            //pattern for year and date
+            Regex yearsAndDates = new Regex(@"(\d{4})|(-\d{2}-\d{2})");
+            MatchCollection matches1 = yearsAndDates.Matches(text);
+
+            foreach(Match match1 in matches1)
+            {
+                text = text.Replace(match1.Value, "");//replacing the dates and years
+            }
+
+            //new pattern for remaining numbers
+            Regex numbers = new Regex(@"\d{0,}\d");
+            MatchCollection matches2 = numbers.Matches(text);
+
+            int sum = 0;
+
+            foreach (Match match2 in matches2)
+            {
+                sum=sum+int.Parse(match2.Value);//adding the matched values 
+            }
+
+            //output
+            Console.WriteLine(sum);
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

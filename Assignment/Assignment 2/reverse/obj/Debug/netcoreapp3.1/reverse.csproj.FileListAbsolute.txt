@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\bin\Debug\netcoreapp3.1\reverse.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\bin\Debug\netcoreapp3.1\reverse.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\bin\Debug\netcoreapp3.1\reverse.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\bin\Debug\netcoreapp3.1\reverse.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\bin\Debug\netcoreapp3.1\reverse.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\bin\Debug\netcoreapp3.1\reverse.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\obj\Debug\netcoreapp3.1\reverse.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\obj\Debug\netcoreapp3.1\reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\obj\Debug\netcoreapp3.1\reverse.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\obj\Debug\netcoreapp3.1\reverse.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\obj\Debug\netcoreapp3.1\reverse.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\obj\Debug\netcoreapp3.1\reverse.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\obj\Debug\netcoreapp3.1\reverse.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 2\reverse\obj\Debug\netcoreapp3.1\reverse.genruntimeconfig.cache

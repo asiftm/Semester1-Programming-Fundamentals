@@ -1,0 +1,14 @@
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\bin\Debug\netcoreapp3.1\Longest isogram.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\bin\Debug\netcoreapp3.1\Longest isogram.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\bin\Debug\netcoreapp3.1\Longest isogram.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\bin\Debug\netcoreapp3.1\Longest isogram.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\bin\Debug\netcoreapp3.1\Longest isogram.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\bin\Debug\netcoreapp3.1\Longest isogram.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\obj\Debug\netcoreapp3.1\Longest isogram.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\obj\Debug\netcoreapp3.1\Longest isogram.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\obj\Debug\netcoreapp3.1\Longest isogram.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\obj\Debug\netcoreapp3.1\Longest isogram.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\obj\Debug\netcoreapp3.1\Longest isogram.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\obj\Debug\netcoreapp3.1\Longest isogram.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\obj\Debug\netcoreapp3.1\Longest isogram.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Longest isogram\obj\Debug\netcoreapp3.1\Longest isogram.genruntimeconfig.cache

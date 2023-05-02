@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\bin\Debug\netcoreapp3.1\files01.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\bin\Debug\netcoreapp3.1\files01.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\bin\Debug\netcoreapp3.1\files01.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\bin\Debug\netcoreapp3.1\files01.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\bin\Debug\netcoreapp3.1\files01.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\bin\Debug\netcoreapp3.1\files01.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\obj\Debug\netcoreapp3.1\files01.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\obj\Debug\netcoreapp3.1\files01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\obj\Debug\netcoreapp3.1\files01.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\obj\Debug\netcoreapp3.1\files01.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\obj\Debug\netcoreapp3.1\files01.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\obj\Debug\netcoreapp3.1\files01.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\obj\Debug\netcoreapp3.1\files01.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\C# practice\files01\obj\Debug\netcoreapp3.1\files01.genruntimeconfig.cache

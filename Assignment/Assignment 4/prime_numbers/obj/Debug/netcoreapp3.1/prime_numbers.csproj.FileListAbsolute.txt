@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\bin\Debug\netcoreapp3.1\prime_numbers.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\bin\Debug\netcoreapp3.1\prime_numbers.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\bin\Debug\netcoreapp3.1\prime_numbers.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\bin\Debug\netcoreapp3.1\prime_numbers.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\bin\Debug\netcoreapp3.1\prime_numbers.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\bin\Debug\netcoreapp3.1\prime_numbers.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\obj\Debug\netcoreapp3.1\prime_numbers.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\obj\Debug\netcoreapp3.1\prime_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\obj\Debug\netcoreapp3.1\prime_numbers.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\obj\Debug\netcoreapp3.1\prime_numbers.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\obj\Debug\netcoreapp3.1\prime_numbers.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\obj\Debug\netcoreapp3.1\prime_numbers.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\obj\Debug\netcoreapp3.1\prime_numbers.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 4\prime_numbers\obj\Debug\netcoreapp3.1\prime_numbers.genruntimeconfig.cache

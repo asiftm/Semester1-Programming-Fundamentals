@@ -1,0 +1,28 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.genruntimeconfig.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\bin\Debug\netcoreapp3.1\Duplicates.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\bin\Debug\netcoreapp3.1\Duplicates.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\bin\Debug\netcoreapp3.1\Duplicates.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\bin\Debug\netcoreapp3.1\Duplicates.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\bin\Debug\netcoreapp3.1\Duplicates.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\bin\Debug\netcoreapp3.1\Duplicates.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\obj\Debug\netcoreapp3.1\Duplicates.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\obj\Debug\netcoreapp3.1\Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\obj\Debug\netcoreapp3.1\Duplicates.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\obj\Debug\netcoreapp3.1\Duplicates.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\obj\Debug\netcoreapp3.1\Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\obj\Debug\netcoreapp3.1\Duplicates.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\obj\Debug\netcoreapp3.1\Duplicates.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\05 Duplicates\obj\Debug\netcoreapp3.1\Duplicates.genruntimeconfig.cache

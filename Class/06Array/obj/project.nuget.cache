@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T82xvBFzD6zO9yF7sFy5gK55rE6vEE4z/LDHgyDT1vlF4gUf04PP8y+T6uueuVKT6gwS2Rv2ZKyM+nQBKxYRdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Class\\06Array\\06Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

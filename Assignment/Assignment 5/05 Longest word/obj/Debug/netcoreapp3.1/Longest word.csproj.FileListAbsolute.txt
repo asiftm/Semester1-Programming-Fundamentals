@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\bin\Debug\netcoreapp3.1\Longest word.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\bin\Debug\netcoreapp3.1\Longest word.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\bin\Debug\netcoreapp3.1\Longest word.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\bin\Debug\netcoreapp3.1\Longest word.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\bin\Debug\netcoreapp3.1\Longest word.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\bin\Debug\netcoreapp3.1\Longest word.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\obj\Debug\netcoreapp3.1\Longest word.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\obj\Debug\netcoreapp3.1\Longest word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\obj\Debug\netcoreapp3.1\Longest word.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\obj\Debug\netcoreapp3.1\Longest word.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\obj\Debug\netcoreapp3.1\Longest word.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\obj\Debug\netcoreapp3.1\Longest word.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\obj\Debug\netcoreapp3.1\Longest word.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 5\Longest word\obj\Debug\netcoreapp3.1\Longest word.genruntimeconfig.cache

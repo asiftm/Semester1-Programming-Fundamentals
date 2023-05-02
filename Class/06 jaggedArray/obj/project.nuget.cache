@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mLsYhW1uxMT6dvLdlcEITNJiBdrs43nWswZi3fLHcvHMpksIVZwVT7hXasFuRqwMH4Hp4nYDFO0Cevex2faEIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Class\\06 jaggedArray\\06 jaggedArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

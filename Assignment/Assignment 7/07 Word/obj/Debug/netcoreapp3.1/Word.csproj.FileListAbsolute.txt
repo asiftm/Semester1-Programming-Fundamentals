@@ -1,0 +1,14 @@
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\obj\Debug\netcoreapp3.1\Word.csproj.AssemblyReference.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\obj\Debug\netcoreapp3.1\Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\obj\Debug\netcoreapp3.1\Word.AssemblyInfoInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\obj\Debug\netcoreapp3.1\Word.AssemblyInfo.cs
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\obj\Debug\netcoreapp3.1\Word.csproj.CoreCompileInputs.cache
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\bin\Debug\netcoreapp3.1\Word.exe
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\bin\Debug\netcoreapp3.1\Word.deps.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\bin\Debug\netcoreapp3.1\Word.runtimeconfig.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\bin\Debug\netcoreapp3.1\Word.runtimeconfig.dev.json
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\bin\Debug\netcoreapp3.1\Word.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\bin\Debug\netcoreapp3.1\Word.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\obj\Debug\netcoreapp3.1\Word.dll
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\obj\Debug\netcoreapp3.1\Word.pdb
+D:\semester1\Programming Fundamentals\Assignment\Assignment 7\Word\obj\Debug\netcoreapp3.1\Word.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\bin\Debug\netcoreapp3.1\Curzon.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\bin\Debug\netcoreapp3.1\Curzon.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\bin\Debug\netcoreapp3.1\Curzon.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\bin\Debug\netcoreapp3.1\Curzon.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\bin\Debug\netcoreapp3.1\Curzon.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\bin\Debug\netcoreapp3.1\Curzon.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\obj\Debug\netcoreapp3.1\Curzon.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\obj\Debug\netcoreapp3.1\Curzon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\obj\Debug\netcoreapp3.1\Curzon.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\obj\Debug\netcoreapp3.1\Curzon.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\obj\Debug\netcoreapp3.1\Curzon.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\obj\Debug\netcoreapp3.1\Curzon.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\obj\Debug\netcoreapp3.1\Curzon.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Curzon\obj\Debug\netcoreapp3.1\Curzon.genruntimeconfig.cache

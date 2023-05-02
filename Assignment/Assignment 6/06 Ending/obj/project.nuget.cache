@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+lJyKSQp1HzQB4XHTfYqzzpKidH41RXZ6DaARJxyfO1q6fHjHsAFs5VMxY4qLDh+0dq+Ncp3EqpD44T+KUJsiA==",
+  "success": true,
+  "projectFilePath": "E:\\Study\\Classes\\Programming Fundamentals\\Assignment\\Assignment 6\\Ending\\Ending.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\obj\Debug\netcoreapp3.1\Negative.csproj.AssemblyReference.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\obj\Debug\netcoreapp3.1\Negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\obj\Debug\netcoreapp3.1\Negative.AssemblyInfoInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\obj\Debug\netcoreapp3.1\Negative.AssemblyInfo.cs
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\obj\Debug\netcoreapp3.1\Negative.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\bin\Debug\netcoreapp3.1\Negative.exe
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\bin\Debug\netcoreapp3.1\Negative.deps.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\bin\Debug\netcoreapp3.1\Negative.runtimeconfig.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\bin\Debug\netcoreapp3.1\Negative.runtimeconfig.dev.json
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\bin\Debug\netcoreapp3.1\Negative.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\bin\Debug\netcoreapp3.1\Negative.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\obj\Debug\netcoreapp3.1\Negative.dll
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\obj\Debug\netcoreapp3.1\Negative.pdb
+C:\Users\WALTON\Desktop\Programming Fundamentals\Assignment\Assignment 3\Negative\obj\Debug\netcoreapp3.1\Negative.genruntimeconfig.cache

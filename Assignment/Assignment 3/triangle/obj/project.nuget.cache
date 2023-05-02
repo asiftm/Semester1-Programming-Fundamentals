@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dpRNa4zQyr2aMRv+BjPKzpRWkkct6v0UOHluSHZHbMoetbUmBIjRluL0dJ4TYxJE6op3/sw79/zNhF3QOX6LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 3\\triangle\\triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

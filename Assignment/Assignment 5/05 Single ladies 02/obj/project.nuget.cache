@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zaR5QEik31eAo97KhxEjkyOslltP2fH3bhE1GKJRDdusIFp6lR94w/1X/31LQPLSewXwEdjV9R5HdCqQxMN4Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTON\\Desktop\\Programming Fundamentals\\Assignment\\Assignment 5\\05 Single ladies 02\\Single ladies 02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

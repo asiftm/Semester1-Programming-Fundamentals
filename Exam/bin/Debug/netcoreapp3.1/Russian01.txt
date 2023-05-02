@@ -1,0 +1,51 @@
+Rank		Russian word  	English translation  	Part of speech
+1.		и 	and, though	conjunction
+2. 		в 	in, at	preposition
+3. 		не 	not	particle
+4. 		он 	he	pronoun
+5. 		на 	on, it, at, to	preposition
+6. 		я 	I	pronoun
+7. 		что 	what, that, why	сonjunction, pronoun
+8. 		тот 	that	adjective, pronoun
+9. 		быть 	to be	verb
+10. 	с 	with, and, from, of	preposition
+11. 	а 	while, and, but	conjunction
+12. 	весь 	all, everything	pron, noun
+13. 	это 	that, this, it	pronoun
+14. 	как 	how, what, as, like	adverb, conj
+15. 	она 	she	pronoun
+16. 	по 	on, along, by	preposition
+17. 	но 	but	conjunction, noun
+18. 	они 	they	pronoun
+19. 	к 	to, for, by	preposition
+20. 	у 	by, with, of	preposition
+21. 	ты 	you, thou	pronoun
+22. 	из 	from, of, in	preposition
+23. 	мы 	we	pronoun
+24. 	за 	behind, over, at, after	preposition
+25. 	вы 	you	pronoun
+26. 	так 	so, thus, then	adverb
+27. 	же 	and, as for, but, same	conj, particle
+28. 	от 	from, of, for	preposition
+29. 	сказать 	to say, to speak	verb
+30. 	этот 	this	pronoun
+31. 	который 	which, who, that	pronoun
+32. 	мочь 	be able	verb
+33. 	человек 	man, person	noun
+34. 	о 	of, about, against	preposition
+35. 	один 	one, some, alone	cardinal number, pronoun
+36. 	ещё 	still, yet	adverb
+37. 	бы 	would	particle
+38. 	такой 	such, so, some	pronoun
+39. 	только 	only, merely, but	adverb, conj
+40. 	себя 	myself, himself, herself	pron, particle
+41. 	своё 	one's own, my, our	pronoun, noun
+42. 	какой 	what, which, how	pronoun
+43. 	когда 	when, while, as	adverb, conj
+44. 	уже 	already, by now	adverb
+45. 	для 	for, to	preposition
+46. 	вот 	here, there, this is, that's	particle
+47. 	кто 	who, that, some	pronoun
+48. 	да 	yes, but	conj, particle
+49. 	говорить 	to say, to tell, to speak	verb
+50. 	год 	year	noun

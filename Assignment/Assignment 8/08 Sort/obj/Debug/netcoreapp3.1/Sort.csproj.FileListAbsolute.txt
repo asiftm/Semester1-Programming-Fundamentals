@@ -1,0 +1,28 @@
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\bin\Debug\netcoreapp3.1\Sort.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\bin\Debug\netcoreapp3.1\Sort.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\obj\Debug\netcoreapp3.1\Sort.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\obj\Debug\netcoreapp3.1\Sort.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\obj\Debug\netcoreapp3.1\Sort.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\obj\Debug\netcoreapp3.1\Sort.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\obj\Debug\netcoreapp3.1\Sort.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\Sort\obj\Debug\netcoreapp3.1\Sort.genruntimeconfig.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\bin\Debug\netcoreapp3.1\Sort.exe
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\bin\Debug\netcoreapp3.1\Sort.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\obj\Debug\netcoreapp3.1\Sort.csproj.AssemblyReference.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\obj\Debug\netcoreapp3.1\Sort.GeneratedMSBuildEditorConfig.editorconfig
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\obj\Debug\netcoreapp3.1\Sort.csproj.CoreCompileInputs.cache
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\obj\Debug\netcoreapp3.1\Sort.dll
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\obj\Debug\netcoreapp3.1\Sort.pdb
+Z:\semester1\Programming Fundamentals\Assignment\Assignment 8\08 Sort\obj\Debug\netcoreapp3.1\Sort.genruntimeconfig.cache
